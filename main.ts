@@ -1,3 +1,4 @@
+#!/bin/bash
 import inquirer from 'inquirer'
 
 const currency:{[key:string]:number} = {
